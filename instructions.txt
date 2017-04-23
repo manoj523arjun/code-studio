@@ -1,0 +1,24 @@
+To see sureifyMPlayer frontend application please below instructions
+
+1) Unzip the folder. Once unzip We will get below folder structure
+	sureifyMPlayer =>build folder
+			instructions.txt
+			screenshot.png
+2) Keep sureifyMPlayer folder in c drive of pc
+3) Make sure that npm setup has to be there globally in pc
+4) open command prompt goto cd c:\ and run command like "npm install -g serve"
+5) Once serve install globally then open sureifyMPlayer in command prompt and run command "serve -s build"
+6) Once we run above command it will whow localhost url and network url of application
+7) Copy any one url and run in browser.
+8) Finally we can see application on browser.
+
+Note: Coke studio application design is similar like screenshot.png(which we can find in root folder).
+
+Below features implemented:
+
+1) good UI design
+2) music player
+3) search songs by song name feature
+4) add favourites implemented by using localstorage
+5) download fav songs implemented
+	
